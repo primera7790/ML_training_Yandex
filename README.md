@@ -11,5 +11,5 @@
 ## Используемые технологии:
   - Язык программирования: &nbsp; `python` ;
   - Среда выполнения: &nbsp; `jupiter notebook` , `google colab` ;
-  - Библиотеки: &nbsp; `numpy`, `sklearn` , `matplotlib` , `pytorch` , `shap` ;
+  - Библиотеки: &nbsp; `numpy`, `sklearn` , `matplotlib`, `scipy` , `pytorch` , `shap` ;
   - Используемые датасеты: &nbsp; `DESCR (sklearn)` , `MNIST (pytorch)` .
