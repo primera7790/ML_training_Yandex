@@ -1,7 +1,7 @@
 # ML_training_Yandex
 Решение задач первых тренировок по Machine Learning от Яндекс
 
-## Разделы:
+## Разделы
 1. k-NN - k-Nearest Neighbors - Метод k-ближайших соседей;
 2. Laplace distribution - Распределение Лапласа;
 3. Derivatives - Производные для уравнений линейной регрессии;
@@ -11,7 +11,7 @@
 7. Deep learning - Написание моделей, нейронных сетей, с автоматической генерацией признаков;
 8. Feature importances - Оценка значимости признаков модели.
 
-## Nехнологии:
+## Технологии
   - Язык: &nbsp; `python` ;
   - Среда выполнения: &nbsp; `jupiter notebook` , `google colab` ;
   - Библиотеки: &nbsp; `numpy`, `sklearn` , `matplotlib`, `scipy` , `pytorch` , `shap` ;
